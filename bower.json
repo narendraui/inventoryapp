@@ -1,0 +1,27 @@
+{
+  "name": "inventoryapp",
+  "description": "A simple inventory module",
+  "main": "server.js",
+  "authors": [
+    "Narendra Kumar P"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "bower",
+    "bootstrap",
+    "angular",
+    "jquery",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "homepage": "https://github.com/narendraui/inventoryapp",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
